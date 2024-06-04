@@ -38,7 +38,7 @@ export default function Home() {
   }, []);
 
   return (
-    <main className="flex min-h-screen flex-col items-center justify-center p-24">
+    <main className="flex min-h-screen flex-col items-center justify-center p-4">
       <h1 className="text-2xl text-center">
         My Cloudflare account has survived for<br></br>
         <span className="font-bold text-orange-400 font-mono">
